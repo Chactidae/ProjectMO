@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectMO</string>
+    <string name="title_home">Личный кабинет</string>
+    <string name="title_dashboard">Врачи</string>
+    <string name="title_notifications">Запись</string>
+    <string name="title_notifications_1">История записей</string>
+    <string name="запись">Записаться</string>
+</resources>
